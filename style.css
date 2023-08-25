@@ -1,0 +1,56 @@
+body {
+
+    text-align: center;
+ 
+     background-color: #faf6d0;
+ 
+     font-size: 35px;
+ 
+     color: #52423c
+}
+
+#Titulo{
+ 
+     text-decoration: underline;
+ 
+     font-style: normal;
+ 
+     color: black;
+}
+  
+.FonteUm{
+ 
+     font-family: Arial, Helvetica, sans-serif;
+ 
+}
+ 
+.FonteDois{
+ 
+     font-family:'Times New Roman', Times, serif ;
+}
+ 
+.FonteTrês{
+ 
+    font-family: 'Creepster', fantasy;
+}
+ 
+.FonteQuatro{
+ 
+ font-family: 'Space Mono', monospace;
+}
+ 
+.FonteCinco{
+ 
+ font-family: 'Shadows Into Light', cursive;
+}
+ 
+.NomeFonte{
+ 
+    font-weight: 900;
+ 
+    color: purple;
+ 
+    font-style: oblique;
+ 
+    text-decoration: underline;
+}
