@@ -4,7 +4,7 @@ body {
  
      background-color: #faf6d0;
  
-     font-size: 35px;
+     font-size: 20px;
  
      color: #52423c
 }
@@ -53,4 +53,8 @@ body {
     font-style: oblique;
  
     text-decoration: underline;
+}
+
+#MeuNome{
+     text-align: left;
 }
